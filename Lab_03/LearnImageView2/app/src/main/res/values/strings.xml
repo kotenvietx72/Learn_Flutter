@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnImageView2</string>
+    <string name="label_dangnhap">Đăng nhập</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng kí</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_password">Enter your password</string>
+</resources>

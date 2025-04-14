@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnEditText</string>
+    <string name="submit">Submit</string>
+    <string name="hint_YourName">example: Nguyen Viet Anh</string>
+    <string name="hint_Ex">example: 500</string>
+    <string name="hint_BirthDate">example: 25/06/2004</string>
+    <string name="birth_date">Birth Date:</string>
+    <string name="number_ex">Number Ex:</string>
+    <string name="your_name">Your Name:</string>
+</resources>
