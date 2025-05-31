@@ -24,14 +24,19 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
         android:layout_marginEnd="30dp"
+
+        app:counterEnabled="true"
+        app:counterMaxLength="30"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editText_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_email"
+            android:maxLength="30"
             android:textColorHint="#546E7A"
             tools:ignore="TextContrastCheck,VisualLintTextFieldSize" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -42,14 +47,18 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:hint="@string/hint_password"
+        app:counterEnabled="true"
+        app:counterMaxLength="30"
         app:layout_constraintEnd_toEndOf="@+id/edit_email"
-        app:passwordToggleEnabled="true"
         app:layout_constraintStart_toStartOf="@+id/edit_email"
-        app:layout_constraintTop_toTopOf="@+id/guideline">
+        app:layout_constraintTop_toTopOf="@+id/guideline"
+        app:passwordToggleEnabled="true">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editText_Password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:maxLength="30"
             tools:ignore="TextContrastCheck,VisualLintTextFieldSize" />
     </com.google.android.material.textfield.TextInputLayout>
 

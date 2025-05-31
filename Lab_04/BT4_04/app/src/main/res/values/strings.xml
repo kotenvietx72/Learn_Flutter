@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BT4_04</string>
+    <string name="hint_diem">Điểm:</string>
+    <string name="hint_level">Level:</string>
+    <string name="hint_nguoiChoi">Người chơi:</string>
+    <string name="hint_sucManh">Sức mạnh:</string>
+</resources>
