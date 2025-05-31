@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson_04</string>
+    <string name="hint_fullName">Nhập họ và tên</string>
+    <string name="hint_gpa">Nhập GPA</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearnInclude</string>
+    <string name="label_user_infor">Thông tin người dùng</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="action_register">Đăng kí</string>
+    <string name="action_cancel">Hủy bỏ</string>
+    <string name="hint_enterPassword">Nhập lại mật khẩu</string>
+    <string name="action_login">Đăng nhập</string>
+</resources>
