@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson4_06</string>
+    <string name="action_start_new_activity">Start New Activity</string>
+    <string name="text_this_is_information_activity">This is information Activity</string>
+    <string name="label_infor">Bí mật tình trường</string>
+    <string name="label_name">Họ tên:</string>
+    <string name="label_age">Tuổi</string>
+    <string name="label_exName">Tên ny cũ:</string>
+</resources>
